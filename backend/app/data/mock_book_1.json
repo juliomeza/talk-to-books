@@ -1,0 +1,17 @@
+{
+  "id": "mock_book_1",
+  "title": "Pride and Prejudice",
+  "author": "Jane Austen",
+  "description": "A classic novel of manners by Jane Austen.",
+  "is_public": true,
+  "characters": [
+    {
+      "id": "elizabeth",
+      "name": "Elizabeth Bennet"
+    },
+    {
+      "id": "darcy",
+      "name": "Mr. Darcy"
+    }
+  ]
+}

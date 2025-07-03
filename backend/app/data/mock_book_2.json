@@ -1,0 +1,17 @@
+{
+  "id": "mock_book_2",
+  "title": "Dracula",
+  "author": "Bram Stoker",
+  "description": "The classic vampire tale.",
+  "is_public": true,
+  "characters": [
+    {
+      "id": "dracula",
+      "name": "Count Dracula"
+    },
+    {
+      "id": "harker",
+      "name": "Jonathan Harker"
+    }
+  ]
+}
